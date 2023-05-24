@@ -59,3 +59,7 @@ As an unregistered site visitor / 1st time visitor I can see what the purpose of
 As an unregistered user I can create a new account on the site so that I can access the full features of the site
 
 As a registered user I can log into my account on the site so that I can view my posts, other users posts, favourited posts and comments
+
+# Bugs
+
+Due to starting this project on Codeanywhere but having not been added to the Code Institute team at that point, I was unable to continue using my original repo. To resolve this, I created a new repo and copied the existing readme text I had already written. I also transferred the user stories created in the issue tab on my original repo to a new repo. This was done by opening the issues on the original repo, selecting transfer issue on the right sidebar, and transferring them to the new repo.
