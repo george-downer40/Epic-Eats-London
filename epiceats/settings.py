@@ -32,8 +32,9 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '8000-george-downer40-epic-eat-woo1vh1d47.us2.codeanyapp.com'
-    'epiceats.herokuapp.com', 'localhost'
+    '8000-george-downer40-epic-eat-woo1vh1d47.us2.codeanyapp.com',
+    'epiceats.herokuapp.com', 'localhost',
+
 ]
 
 
